@@ -10,18 +10,34 @@ CSE 111 Proposal for a Student Chosen Program
     knowledge.)
 
 1. What is the title of your program?
+    My program will be called 'Glasses Price Calculator and Patient Database'
 
 2. What real-world problem will your program address or help to solve?
+    At my job I am constantly quoting patients for the total price of their glasses.
+    This program will let me enter the price of the frames, and the type of lenses that
+    the patient has chosen. It will then calculate the total cost. I will also have a list
+    or dictionary of pantients. Using this I will be able to search and see if it has been 
+    over 2 years since their last purchse and if it has, I will add on a 5% discount
+    (still playing with the discount numbers) and if they do not appear in the list/dictionary
+    then they will get a 10% weclome discount.
 
 3. What will you learn from developing this program?
+    I am hoping to learn about how to make multiple types of functions that we learned this 
+    year work together in the same program and also to see what it takes to bring a program to
+    life from the ground up.
 
 4. What Python modules will your program use?
+    If I have thought of everything correctly, I will be using csv and datetime
 
     (Some examples are: csv, datetime, functools, matplotlib, math,
     pandas, pytest, random, requests, and tkinter.)
 
 5. Will you separate your Python program into functions that each
 perform a single task?
+
+    Yes, I plan to seperate my functions down into as simple of functions as
+    I can to make sure my program runs as smoothly as possible and is as easy
+    as possible to debug if I run into any problems along the way.
 
     (Remember that the most reusable functions don't get user input and
     don't print results but instead have parameters and return a result.
@@ -36,4 +52,7 @@ perform a single task?
 
 6. Will you write test functions to test at least two of your program
 functions?
+
+    I have every intention of writting two test functions. But I think this
+    is what makes me the most nervous about the whole thing.
 
