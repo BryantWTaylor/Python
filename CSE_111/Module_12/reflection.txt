@@ -1,0 +1,32 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+Honestly I think the most powerful moment I had with functions was when I was writing my major program.
+It was during that time that I realized how powerful and versatile a function is. When I code I usually
+will go back and look at reference code from projects that I have done in the past to try and remind myself
+how to code something. But I was finding that I was able to take some pieces of my previous code almost in
+its fullness because good functions use paramaters and can be reused when needed.
+
+
+2. In your judgment, what is the value of test functions?
+
+I had trouble seeing the value of test functions at first, but I realized that we are able to create a
+test function that asserts or claims that if we run these paramaters through this function we should see this
+result. And what that means is we are essentially able to write a function to shows what we expect our outcome
+to be and see if we are correct. If we aren't then we look at what we might have done wrong. It is a valueable
+tool.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+Currently my process is to look at the error message that it throws at me, because usually it is because I 
+get a TypeError or a ValueError or something that will tell me roughly where I went wrong and so I go and try
+to fix it if I can figure out what I did wrong. If the program runs through just fine and I get a result that I wasn't
+expecting, then I will use the debug tool to watch what is going on in the process of the code running and see where
+it went off track. I know that I can improve my process by writing test functions and writing for exceptions. I 
+will only get more comfortable with it if I try.
+
